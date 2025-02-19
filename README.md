@@ -2,7 +2,7 @@ The test task assumes that you are either familiar with, or can quickly get acqu
 
 Several code snippets will be presented, where you will be asked to fix the indicated errors.
 
-It is expected that only **PHPDoc** comments should be added or modified; however, if you believe a more elegant or the only solution requires changing the code, it is permissible. Also, please avoid using `@psalm-suppress` annotations, unless otherwise stated.
+It is expected that only **PHPDoc** comments should be added or modified; however, if you believe a more elegant or the only solution requires changing the code, it is permissible. Also, please avoid using the `@var` and `@psalm-suppress` annotations, unless otherwise stated.
 Additionally, please describe what the problem was, what you added, and its purpose.
 It doesn't matter how many tasks you manage to solve, what matters is that you give it a try.
 
